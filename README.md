@@ -3,6 +3,8 @@ A React App to search for recipes all around the internet!
 Powered by [EdamamAPI](https://developer.edamam.com)
 <img src="sample.png" height="300">
 
+Tri it out! https://hungrr.netlify.app
+
 ## Available Scripts
 
 In the project directory, you can run:
